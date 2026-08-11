@@ -65,7 +65,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 24,
+      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -120,7 +120,7 @@
         "id": "8cUPTgjdYOd7",
         "outputId": "787b6246-8568-4e49-f35f-c5de85b37fc2"
       },
-      "execution_count": 25,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -176,7 +176,7 @@
         "id": "Iegww2y9TPJF",
         "outputId": "fb97c676-470b-42db-bbcc-90a280f7a64c"
       },
-      "execution_count": 26,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
